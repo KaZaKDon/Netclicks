@@ -1,2 +1,2 @@
-# Netclicks
+# Neyclicks
 Учебный курс
