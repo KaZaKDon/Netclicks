@@ -37,7 +37,7 @@ const render = (array) => {
     cardWrapper.insertAdjacentHTML(
       "beforeend",
       `
-      <a href="${item.link}" class="content-cards_item">
+      <a href="film.html" class="content-cards_item">
                   <div class="content-cards_item-img">
                     <img src="${item.image}" alt="Film" />
                   </div>
