@@ -133,6 +133,7 @@ body {
 
 .content-cards_item {
   width: calc((100% - 60px) / 3);
+  text-decoration: none;
 }
 
 .content-cards_item img {
@@ -140,6 +141,7 @@ body {
 }
 
 .content-cards_item-title h5 {
+  color: #000;
   margin: 0;
   font-family: Inter, sans-serif;
   font-size: 16px;
@@ -148,6 +150,7 @@ body {
 }
 
 .content-cards_item-title span {
+  color: #000;
   margin: 0;
   font-family: Inter, sans-serif;
   font-size: 16px;
