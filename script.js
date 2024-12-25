@@ -9,7 +9,7 @@ const films = [
     original: "The Martian 2015",
     category: "Фантастика, приключения",
     rating: 7.8,
-    image: "./img/film.png",
+    image: "./img/Film.png",
   },
   {
     id: 1,
@@ -17,7 +17,7 @@ const films = [
     original: "The Martian 2015",
     category: "Фантастика, приключения",
     rating: 7.8,
-    image: "./img/film.png",
+    image: "./img/Film.png",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const films = [
     original: "The Martian 2015",
     category: "Фантастика, приключения",
     rating: 7.8,
-    image: "./img/film.png",
+    image: "./img/Film.png",
   },
 ];
 
